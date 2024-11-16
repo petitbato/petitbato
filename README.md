@@ -8,8 +8,8 @@ I'm **Romain Lemoine-Melin**, a Computer Science engineering student at **ECAM E
 - 🌐 **Practical Experience**: Gained hands-on knowledge of cybersecurity practices, including exploring advanced tools and frameworks.
 
 ## 🏆 TryHackMe:
-Successfully completed various cybersecurity challenges on TryHackMe, earning multiple badges and improving skills in areas such as penetration testing, network security, and ethical hacking. Currently being in the top 10% of users in the platform.
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1888977)
+Successfully completed various cybersecurity challenges on TryHackMe, earning multiple badges and improving skills in areas such as penetration testing, network security, and ethical hacking. Currently ranked in the top 10% of users on the platform.
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1888977" style='border:none'></iframe>
 
 
 # 💻 Tech Stack:
